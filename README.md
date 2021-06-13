@@ -7,8 +7,6 @@ $ sudo dpkg -i google-chrome-stable_current_amd64.deb
 ```
 
 ### Install Gnome
-:rocket: [Gnome](https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep?hl=pt-BR)
-
 ```console
 $ sudo apt-get install -y gdebi gnome-tweak-tool gnome-shell-extensions chrome-gnome-shell
 ```
