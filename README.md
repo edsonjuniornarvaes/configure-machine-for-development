@@ -1,5 +1,4 @@
-# Configure machine for development
-##### configure machine for development using ubuntu.
+## Configure machine for development
 
 ### Install Chrome
 ```console
