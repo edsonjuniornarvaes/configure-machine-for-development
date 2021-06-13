@@ -76,12 +76,11 @@ $ sudo apt update
 $ apt-cache policy docker-ce
 $ sudo apt install docker-ce
 ```
-### Test the installation
+Test the installation
 ```console
 $ sudo systemctl status docker
 ```
-
-### Permission
+Permission
 ```console
 $ sudo usermod -aG docker $(whoami)
 $ sudo usermod -aG docker $USER
