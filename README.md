@@ -12,14 +12,14 @@ $ sudo apt-get install -y gdebi gnome-tweak-tool gnome-shell-extensions chrome-g
 ```
 
 ### Extensions Gnome 
-:rocket: [Start overlay in application view](https://extensions.gnome.org/extension/1198/start-overlay-in-application-view/)
-:rocket: [Dash to dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
-:rocket: [Dash to panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) 
-:rocket: [Sound output device chooser](https://extensions.gnome.org/extension/906/sound-output-device-chooser/)
-:rocket: [Extend panel menu](https://extensions.gnome.org/extension/1201/extend-panel-menu/) 
-:rocket: [Scroll panel](https://extensions.gnome.org/extension/932/scroll-panel/)  
-:rocket: [Transparent gnome panel](https://extensions.gnome.org/extension/1099/transparent-gnome-panel/)  
-:rocket: [Gnome shutdown button](https://extensions.gnome.org/extension/1056/gnome-shutdown-button/)  
+- :rocket: [Start overlay in application view](https://extensions.gnome.org/extension/1198/start-overlay-in-application-view/)
+- :rocket: [Dash to dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
+- :rocket: [Dash to panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) 
+- :rocket: [Sound output device chooser](https://extensions.gnome.org/extension/906/sound-output-device-chooser/)
+- :rocket: [Extend panel menu](https://extensions.gnome.org/extension/1201/extend-panel-menu/) 
+- :rocket: [Scroll panel](https://extensions.gnome.org/extension/932/scroll-panel/)  
+- :rocket: [Transparent gnome panel](https://extensions.gnome.org/extension/1099/transparent-gnome-panel/)  
+- :rocket: [Gnome shutdown button](https://extensions.gnome.org/extension/1056/gnome-shutdown-button/)  
 
 ### Install Icons
 ```console
