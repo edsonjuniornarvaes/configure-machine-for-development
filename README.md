@@ -2,13 +2,13 @@
 
 ### Install Chrome
 ```console
-$ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-$ sudo dpkg -i google-chrome-stable_current_amd64.deb
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo dpkg -i google-chrome-stable_current_amd64.deb
 ```
 
 ### Install Gnome
 ```console
-$ sudo apt-get install -y gdebi gnome-tweak-tool gnome-shell-extensions chrome-gnome-shell
+sudo apt-get install -y gdebi gnome-tweak-tool gnome-shell-extensions chrome-gnome-shell
 ```
 
 ### Extensions Gnome 
@@ -23,18 +23,18 @@ $ sudo apt-get install -y gdebi gnome-tweak-tool gnome-shell-extensions chrome-g
 
 ### Install Icons
 ```console
-$ sudo add-apt-repository ppa:papirus/papirus
-$ sudo apt install papirus-icon-theme
+sudo add-apt-repository ppa:papirus/papirus
+sudo apt install papirus-icon-theme
 ```
 
 ### Install Make
 ```console
-$ sudo apt-get update
-$ sudo apt-get install make
+sudo apt-get update
+sudo apt-get install make
 ```
 ### Install GIT
 ```console
-$ sudo apt-get install git
+sudo apt-get install git
 ```
 
 ### Install PHP 
